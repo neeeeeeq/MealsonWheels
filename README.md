@@ -1,0 +1,2 @@
+# MealsonWheels
+Problem Statement:  A food ordering app for all the general public of Lahore for all well known restaurants. A common problem is that these apps don’t offer a messaging service for their users. Our app will offer that and keep the user updated about their delivery.  Summary: To enable all the food lovers of these restaurants to order food from that chain at their home in order to fulfill their cravings at late night or any time of the day. And for them to keep track of their food by using the messaging service. 
